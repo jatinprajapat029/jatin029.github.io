@@ -123,6 +123,7 @@ body{
 }
 .icon{
     height:40px;
+    filter: brightness(0) invert(0.75) sepia(0.15) saturate(0.4) hue-rotate(150deg);
 }
 
 header{
